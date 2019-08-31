@@ -3,3 +3,8 @@
 ################################################################################
 
 /CodeBug.CountryProvider/.vs/CodeBug.CountryProvider/v16
+/CodeBug.CountryProvider/CodeBug.CountryProvider/bin/Debug
+/CodeBug.CountryProvider/CodeBug.CountryProvider/obj
+/CodeBug.CountryProvider/CodeBug.CountryProvider.Tests/bin/Debug
+/CodeBug.CountryProvider/CodeBug.CountryProvider.Tests/obj
+/CodeBug.CountryProvider/packages
