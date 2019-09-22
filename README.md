@@ -1,5 +1,6 @@
 # Welcome to Virtual Entity Tutorial With Dynamics 365
 [![Build Status](https://dev.azure.com/code-bug/code-bug/_apis/build/status/ImranCodeBug.codebug.countryprovider?branchName=master)](https://dev.azure.com/code-bug/code-bug/_build/latest?definitionId=1&branchName=master)
+
 This is of the four-part series tutorial where I am trying to explain virtual entity in Dynamics 365 CE. The chapters are,
 
  - [Chapter 1](https://imran-chowdhury.blogspot.com/2019/09/virtual-entity-chapter-1-definition-and.html) - Core concept and definition
